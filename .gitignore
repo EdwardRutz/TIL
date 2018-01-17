@@ -1,0 +1,12 @@
+
+
+# Basic
+lib/node_modules
+lib/.sass-cache
+.DS_Store
+
+# Files
+DOCS/
+
+
+
