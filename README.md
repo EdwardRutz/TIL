@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="images/follow-code.png" width=400>
+  <img src="https://github.com/EdwardRutz/TIL/blob/master/images/Follow-Code.png">
 </p>
 
 
 -------------------------------------------------
 <p align="center">
-  <img src="images/til.png" width=300> <br>
+  <img src="https://github.com/EdwardRutz/TIL/blob/master/images/TIL.png"> <br>
   <strong><i>Thoughts from coding...</i></strong>
 </p>
 
