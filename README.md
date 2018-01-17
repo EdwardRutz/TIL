@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://github.com/EdwardRutz/TIL/blob/master/images/Follow-Code.png">
-</p>
 
-
--------------------------------------------------
 <p align="center">
   <img src="https://github.com/EdwardRutz/TIL/blob/master/images/TIL.png">
 </p>
