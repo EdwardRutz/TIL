@@ -11,25 +11,28 @@
 ## Social Media
 
 - [Portfolio Site](https://edwardrutz.github.io)
+- [Github Work](https://github.com/EdwardRutz)
 - [Today I Learned Website](https://edwardrutz.github.io/TIL/)
 - [LinkedIn: Edward Rutz](https://www.linkedin.com/in/edwardrutz/)
-- [Portfolio Website](https://edwardrutz.github.io)
-- [Github](https://github.com/edwardrutz)
-- [Twitter](https://twitter.com/edwardr)
+- [Twitter: @EdwardR](https://twitter.com/edwardr)
 
 
 -------------------------------------------------
 
 ## CONTENTS
-
+- [Coding](#coding)
 - [Webpack](#webpack)
+
+
 
 
 -------------------------------------------------
 
+
 ## POSTS
 
-
+### CODING
+- [What I Like About Coding](Coding/What-I-Like-About-Coding.md)
 
 
 
