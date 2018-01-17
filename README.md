@@ -3,6 +3,7 @@
   <img src="images/TIL.png">
 </p>
 
+[Today I Learned Website](https://edwardrutz.github.io/TIL/)
 
 
 ## CONTENTS
