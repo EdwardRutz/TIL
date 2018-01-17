@@ -20,7 +20,7 @@
 #### Persistence and Triumph
 - Charge and push until you get the code working. Like a rhino charging through obstacles or a dog with a bone holding on tightly, keep going until you get it working.  It is just a matter of time. 
 
-- If I'm not careful I will burn to much time working on a problem so I have learned to set milestones and time limits.
+- If I'm not careful I will burn too much time working on a problem so I have learned to set milestones and time limits I need to get results.
 
 - When learning something new, I like to wrestle with it on my own until I get it. Working in groups is fun, especially when we are building a project, but I'm more effective with learning on my own and applying knowledge with a group. It's fun to figure out the solution instead of having someone give it to me.
 
