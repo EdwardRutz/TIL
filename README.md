@@ -3,7 +3,9 @@
   <img src="images/TIL.png">
 </p>
 
-[Today I Learned Website](https://edwardrutz.github.io/TIL/)
+<p>This is a scratchpad for quick notes and tips on what I am learning as I work and code.</p>
+<p>[Today I Learned Website](https://edwardrutz.github.io/TIL/)</p>
+<p>[Portfolio Site](https://edwardrutz.github.io</p>
 
 
 ## CONTENTS
