@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="images/follow-code.png" width=400>
+  <img src="images/follow-code.png" width=400 />
 </p>
 
 
 -------------------------------------------------
 <p align="center">
-  <img src="images/til.png" width=300> <br>
+  <img src="images/til.png" width=300 /> <br>
   <strong><i>Thoughts from coding...</i></strong>
 </p>
 
