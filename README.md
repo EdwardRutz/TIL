@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/EdwardRutz/TIL/blob/master/images/TIL.png">
+  <img src="images/TIL.png">
 </p>
 
 
