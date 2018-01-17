@@ -5,8 +5,7 @@
 
 -------------------------------------------------
 <p align="center">
-  <img src="https://github.com/EdwardRutz/TIL/blob/master/images/TIL.png"> <br>
-  <strong><i>Thoughts from coding...</i></strong>
+  <img src="https://github.com/EdwardRutz/TIL/blob/master/images/TIL.png">
 </p>
 
 
