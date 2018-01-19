@@ -37,8 +37,9 @@
 
 
 ### REACT
-- [Easy, Breezy, Zero Config App](react/easy-breezy-zero-config-react-app.md)
-- [Webpack Dev Server](react/webpack-dev-server.md) 
+- [Easy, Breezy, Zero Config App](react/Easy-Breezy-Zero-Config-React-App.md)
+- [Webpack Dev Server](react/Webpack-Dev-Server.md) 
+
 
 
 
