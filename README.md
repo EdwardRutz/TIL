@@ -21,7 +21,7 @@
 
 ## CONTENTS
 - [Coding](#coding)
-- [Webpack](#webpack)
+- [React](#react)
 
 
 
@@ -36,9 +36,9 @@
 
 
 
-### WEBPACK
-- [Easy, Breezy, Zero Config App](Webpack/Easy-Breezy-Zero-Config-React-App.md)
-- [Webpack Dev Server](Webpack/Webpack-Dev-Server.md) 
+### REACT
+- [Easy, Breezy, Zero Config App](react/Easy-Breezy-Zero-Config-React-App.md)
+- [Webpack Dev Server](react/Webpack-Dev-Server.md) 
 
 
 
