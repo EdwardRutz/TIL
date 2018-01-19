@@ -16,6 +16,7 @@ Mid-sized and smaller React are quick and easy with "react-create-app." This off
 
 <p align="center">
  <img src="images/react-create-app.png"/>
+     <br/>
      The react-create-app start screen after running "npm start"
 </p>
 
