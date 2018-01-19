@@ -32,13 +32,14 @@
 ## POSTS
 
 ### CODING
-- [What I Like About Coding](Coding/What-I-Like-About-Coding.md)
+- [What I Like About Coding](coding/What-I-Like-About-Coding.md)
 
 
 
 ### REACT
 - [Easy, Breezy, Zero Config App](react/Easy-Breezy-Zero-Config-React-App.md)
 - [Webpack Dev Server](react/Webpack-Dev-Server.md) 
+
 
 
 
