@@ -14,12 +14,10 @@ Mid-sized and smaller React are quick and easy with "react-create-app." This off
 - More dependecies, scripts and configs can be installed and customizing by using the "eject" command. This cannot be reversed and scripts must be maintained manually.
 
 
-<figure align="center">
+<p align="center">
  <img src="images/react-create-app.png"/>
-   <figcaption>
-    The react-create-app start screen after running "npm start"
-   </figcaption>
-</figure>
+     The react-create-app start screen after running "npm start"
+</p>
 
 
 
