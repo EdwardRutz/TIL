@@ -4,14 +4,14 @@
 
 Today I learned the react-create-app package is quick, easy and awesome.
 
-Mid-sized and smaller React are quick and easy with "react-create-app." This official React build installs everything needed along with configuring the webserver for a simple install.
+Mid-sized and smaller sites with React are quick and easy using the "react-create-app" package. This official React build installs everything needed for development, including configuring the webserver.
 
 - It uses Webpack and Babel with minmal configuration
 - Best part, the web server is ready to go with no configuration needed
 - ESLint in integrated and shows lint warnings in the console
 - Only one dependency and a few scripts in package.json
 - Zero configuration
-- More dependecies, scripts and configs can be installed and customizing by using the "eject" command. This cannot be reversed and scripts must be maintained manually.
+- Flexibility: more dependecies, scripts and configs can be installed and customizing using the "eject" command. This cannot be reversed and dependencies must be maintained manually.
 
 
 <p align="center">
@@ -37,12 +37,7 @@ And did I mention it is quick, easy and requires no configuration.
 
 ## TL;DR
 - The "create-react-app" is an official React build setup that needs no configuration.
-- It uses Webpack and Babel with minmal configuration
-- Best part, the web server is ready to go with no configuration needed
-- ESLint in integrated and shows lint warnings in the console
-- Only one dependency and a few scripts in package.json
-- Zero configuration
-- More dependecies, scripts and configs can be installed and customizing by using the "eject" command. This cannot be reversed and scripts must be maintained manually.
+- Create an app with the package and everything, even the webserver, is ready for developoment.
 
 
 
