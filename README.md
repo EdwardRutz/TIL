@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/EdwardRutz/TIL/blob/master/images/react-create-app.png">
+  <img src="images/til.png">
 </p>
 
 <p>This is a scratchpad for quick notes and tips on what I am learning as I work and code.</p>
