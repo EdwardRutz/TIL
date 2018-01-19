@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/TIL.png">
+  <img src="https://github.com/EdwardRutz/TIL/blob/master/images/react-create-app.png">
 </p>
 
 <p>This is a scratchpad for quick notes and tips on what I am learning as I work and code.</p>
@@ -21,7 +21,7 @@
 
 ## CONTENTS
 - [Coding](#coding)
-- [Webpack](#webpack)
+- [React](#react)
 
 
 
@@ -32,13 +32,13 @@
 ## POSTS
 
 ### CODING
-- [What I Like About Coding](Coding/What-I-Like-About-Coding.md)
+- [What I Like About Coding](coding/What-I-Like-About-Coding.md)
 
 
 
-### WEBPACK
-- [Easy, Breezy, Zero Config App](Webpack/Easy-Breezy-Zero-Config-React-App.md)
-- [Webpack Dev Server](Webpack/Webpack-Dev-Server.md) 
+### REACT
+- [Easy, Breezy, Zero Config App](react/easy-breezy-zero-config-react-app.md)
+- [Webpack Dev Server](react/webpack-dev-server.md) 
 
 
 
