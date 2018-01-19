@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/til.png">
+  <img src="images/TIL.png">
 </p>
 
 <p>This is a scratchpad for quick notes and tips on what I am learning as I work and code.</p>
