@@ -32,7 +32,7 @@
 ## POSTS
 
 ### CODING
-- [What I Like About Coding](coding/What-I-Like-About-Coding.md)
+- [What I Like About Coding](Coding/What-I-Like-About-Coding.md)
 
 
 
