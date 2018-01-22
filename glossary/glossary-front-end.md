@@ -72,8 +72,4 @@
   
 <li> <strong>VALUE</strong> - CSS syntax that sets the variable units for properties.</li>
 </ul>
-
-  <footer>
-    
-  </footer>
 </body>
