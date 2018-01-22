@@ -10,7 +10,7 @@
 
   <li><strong>BREAKPOINTS</strong>  - The specific screen widths where a responsive layout "breaks" and needs to change in order to accommodate the screen.</li>
   
-  <li>Command Line Interface (CLI) A simple window used to execute commands and navigate a system using text commands. In MS Windows it is called the command prompt and in Apple OS it is the terminal.<
+  <li>Command Line Interface (CLI) A simple window used to execute commands and navigate a system using text commands. In MS Windows it is called the command prompt and in Apple OS it is the terminal.</li>
 
   <li><strong>COMMENT</strong> - A reminder or visual cue in computer code that's meant to be readable by programmers. Comments are typically not interpreted by the browser and shouldn't impact a website's function in any way.</li>
   
