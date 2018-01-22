@@ -38,7 +38,7 @@
 
 
 ### GLOSSARY
-- [Glossary of Front-End Dev Terms](glossary/glossary-front-end.html)
+- [Glossary of Front-End Dev Terms](glossary/glossary-front-end.md)
 
 
 
