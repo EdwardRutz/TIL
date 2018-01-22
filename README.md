@@ -21,6 +21,7 @@
 
 ## CONTENTS
 - [Coding](#coding)
+- [Glossary of Front-End Dev Terms](#glossary)
 - [React](#react)
 
 
@@ -33,6 +34,11 @@
 
 ### CODING
 - [What I Like About Coding](Coding/What-I-Like-About-Coding.md)
+
+
+
+### GLOSSARY
+- [Glossary of Front-End Dev Terms](glossary/glossary-front-end.html)
 
 
 
