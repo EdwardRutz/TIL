@@ -20,6 +20,7 @@
 -------------------------------------------------
 
 ## CONTENTS
+- [C#](#c-sharp)
 - [Coding](#coding)
 - [Glossary of Front-End Dev Terms](#glossary)
 - [React](#react)
@@ -31,6 +32,13 @@
 
 
 ## POSTS
+
+
+### C-Sharp
+- [Easy C# Compiling With Mono Software](c-sharp/mono.md)
+
+
+
 
 ### CODING
 - [What I Like About Coding](Coding/What-I-Like-About-Coding.md)

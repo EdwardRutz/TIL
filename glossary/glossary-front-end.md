@@ -10,7 +10,7 @@
 
   <li><strong>BREAKPOINTS</strong>  - The specific screen widths where a responsive layout "breaks" and needs to change in order to accommodate the screen.</li>
   
-  <li>Command Line Interface (CLI) A simple window used to execute commands and navigate a system using text commands. In MS Windows it is called the command prompt and in Apple OS it is the terminal.</li>
+  <li><strong>CLI</strong> - The Command Line Interface (CLI) A simple window used to execute commands and navigate a system using text commands. In MS Windows it is called the command prompt and in Apple OS it is the terminal.</li>
 
   <li><strong>COMMENT</strong> - A reminder or visual cue in computer code that's meant to be readable by programmers. Comments are typically not interpreted by the browser and shouldn't impact a website's function in any way.</li>
   
@@ -50,6 +50,8 @@
   
   <li><strong>MOBILE FIRST</strong> - The technique of creating mobile websites first and then progressively enhancing them to create the desktop version.</li>
   
+  <li><strong>NPM</strong> - Node Packages Manager makes it easy to install, share, update and reuse javascript.</li>
+
   <li><strong>PROPERTY</strong> - CSS syntax that defines which part of an element should be styled, such as its color, size, position, and so on.</li>
 
   <li><strong>PROTOCOL</strong> - A system of rules for the exchange of digital information. On the web, the Hyper Text Transfer Protocol (HTTP) allows for the exchange of websites.</li>
