@@ -20,7 +20,7 @@
 -------------------------------------------------
 
 ## CONTENTS
-- [C#](#c#)
+- [C#](#c-sharp)
 - [Coding](#coding)
 - [Glossary of Front-End Dev Terms](#glossary)
 - [React](#react)
@@ -35,6 +35,8 @@
 
 
 ### C#
+- C-Sharp
+- [An Analogy for Namespace, Classes and Methods](c-sharp/namespace.md)
 - [Easy C# Compiling With Mono Software](c-sharp/mono.md)
 
 
