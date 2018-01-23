@@ -20,7 +20,7 @@
 -------------------------------------------------
 
 ## CONTENTS
-- [C#](#c-sharp)
+- [C#](#c)
 - [Coding](#coding)
 - [Glossary of Front-End Dev Terms](#glossary)
 - [React](#react)
@@ -35,7 +35,7 @@
 
 
 ### C#
-- C-Sharp
+
 - [An Analogy for Namespace, Classes and Methods](c-sharp/namespace.md)
 - [Easy C# Compiling With Mono Software](c-sharp/mono.md)
 
@@ -43,16 +43,19 @@
 
 
 ### CODING
+
 - [What I Like About Coding](Coding/What-I-Like-About-Coding.md)
 
 
 
 ### GLOSSARY
+
 - [Glossary of Front-End Dev Terms](glossary/glossary-front-end.md)
 
 
 
 ### REACT
+
 - [Serve, A Light-Weight Webserver](react/serve.md)
 - [Easy, Breezy, Zero Config App](react/Easy-Breezy-Zero-Config-React-App.md)
 - [Webpack Dev Server](react/Webpack-Dev-Server.md) 
@@ -65,6 +68,7 @@
 
 
 ## REFERENCES
+
 - [Tyler's TIL](https://github.com/tylerb33/TIL)
 - [Josh Branchaud's TIL](https://github.com/jbranchaud/til)
 

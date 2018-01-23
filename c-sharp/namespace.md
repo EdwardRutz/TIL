@@ -2,7 +2,7 @@
 
 #### Today I learned a good analogy for describing Namespace, Classes and Methods...
 
-If you new to C# or forgotten the difference between namespaces, classes and methods, here is a handy analogy.
+If you are new to C# or have forgotten the difference between namespaces, classes and methods, here is a handy analogy.
 
 - Like an address, method name is the street address, class name is the city and namespace is the state.
 
@@ -32,3 +32,11 @@ namespace Nasa
   }
 }
 ```
+
+## TL;DR
+- Namespaces, Classes and Methods organize code in C#
+- Much like an address: street, city, state is like method, Class, Namespace
+
+## REFERENCES
+[Treehouse C# Basics](https://teamtreehouse.com/library/namespaces)
+[MicroSoft C# Reference: Namespace](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/namespace)
