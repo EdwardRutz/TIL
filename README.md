@@ -23,6 +23,7 @@
 - [C#](#c)
 - [Coding](#coding)
 - [Glossary of Front-End Dev Terms](#glossary)
+- [Productivity](#productivity)
 - [React](#react)
 
 
@@ -41,7 +42,6 @@
 
 
 
-
 ### CODING
 
 - [What I Like About Coding](Coding/What-I-Like-About-Coding.md)
@@ -52,6 +52,10 @@
 
 - [Glossary of Front-End Dev Terms](glossary/glossary-front-end.md)
 
+
+### PRODUCTIVTY
+
+- [Seven Habits of Succesful Developers](productivity/seven-habits-developers.md)
 
 
 ### REACT
