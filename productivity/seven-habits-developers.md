@@ -8,12 +8,13 @@ In a great Youtube video by Stefan Mischook, he gives his seven habits for succe
 1. Good documentation
 2. MVP, get your apps out asap to get customer feedback
 3. Be language and technology agnostic. 
-  - What best serves the project
+    - What best serves the project
 4. Have coding standards: syntax, naming conventions, etc.
 5. Favor simple code instead of complex code.
 6. Use self-describing names to describe what it is.
 7. Good communication skills.
-8. Understand Dev Ops: github
+
+- Also, Understand Dev Ops and version control (eg Github)
 
 
 ## REFERENCES
