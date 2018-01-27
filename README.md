@@ -35,7 +35,7 @@
 
 - [Kanban Introduction](kanban/kanban-intro.md)
 - [Seven Habits of Succesful Developers](productivity/seven-habits-developers.md)
-- [Easy C# Compiling on Mac with Mono Software](c-sharp/mono.md)
+- [Easy C# Compiling with Mono Software](c-sharp/mono.md)
 - [Seven Habits of Succesful Developers](productivity/seven-habits-developers.md)
 
 
@@ -44,12 +44,13 @@
 ## POSTS
 
 ### AGILE
+- [Kanban Introduction](kanban/kanban-intro.md)
 
 
 ### C#
 
 - [An Analogy for Namespace, Classes and Methods](c-sharp/namespace.md)
-- [Easy C# Compiling on Mac with Mono Software](c-sharp/mono.md)
+- [Easy C# Compiling with Mono Software](c-sharp/mono.md)
 
 
 
