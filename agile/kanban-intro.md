@@ -1,11 +1,11 @@
-# Kanban
+# Kanban Introduction
 
 
 #### Today I learned more about Kanban...
 
-Over coffee, Brendan gave me good insights into Kanban.
+Over coffee, Brendan W. gave me good insights into Kanban. 
 
-Kanban offers a way of making change through incremental imporvements.  By managing work in progress (WIP) the flow of work items is maximized.
+Kanban offers a way of making changes through incremental imporvements.  By managing work in progress (WIP) the flow of work items is maximized.
 
 Too much mismanaged work is cancerous and will severely degrade productivity and capacity.
 
