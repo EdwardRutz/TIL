@@ -33,6 +33,7 @@
 
 ## RECENT-POSTS
 
+- [The Phoenix Project by Gene Kim](books/phoenix-project.md)
 - [Kanban Introduction](kanban/kanban-intro.md)
 - [Seven Habits of Succesful Developers](productivity/seven-habits-developers.md)
 - [Easy C# Compiling on Mac with Mono Software](c-sharp/mono.md)
@@ -44,6 +45,12 @@
 ## POSTS
 
 ### AGILE
+
+
+
+### BOOKS
+- [The Phoenix Project by Gene Kim](books/phoenix-project.md)
+
 
 
 ### C#
