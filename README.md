@@ -54,7 +54,7 @@
 
 
 ### PRODUCTIVTY
-
+- [Setting Goals Without Setting Goals](productivity/no-goals.md)
 - [Seven Habits of Succesful Developers](productivity/seven-habits-developers.md)
 
 
