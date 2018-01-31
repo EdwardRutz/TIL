@@ -33,6 +33,7 @@
 
 ## RECENT-POSTS
 
+- [Setting Goals Without Setting Goals](productivity/no-goals.md)
 - [Kanban Introduction](kanban/kanban-intro.md)
 - [Seven Habits of Succesful Developers](productivity/seven-habits-developers.md)
 - [Easy C# Compiling with Mono Software](c-sharp/mono.md)
