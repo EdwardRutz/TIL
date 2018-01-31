@@ -1,4 +1,5 @@
 # The Phoenix Project
+_A Novel about IT, DevOps, and Helping Your Business Win_
 
 1-27-18, Edward Rutz
 
@@ -8,18 +9,13 @@
 
  Today I finished reading the book for the third time. I like how the story is full of I.T. best practices that unfold as the characters solve one problem after another. It gives you a glimpse into the workings of a corporate DevOps department.
 
-Auto Parts Unlimited is plagued with constant network and software development problems which are causing the company to fail in the market place and lose money.  By implementing LEAN and Agile practices the company solve problems quickly and becomes the market leader.
+ Parts Unlimited is plagued with constant network and software development problems which are causing the company to fail in the market place and lose money.  By implementing LEAN and Agile practices the company solve problems quickly and becomes the market leader.
 
-A few highlights from the book include...
-
-
-## The Three Ways
-
-
+It is a great book to read.
 
 ## REFERENCES
 
-
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=sr_1_1?ie=UTF8&qid=1517358980&sr=8-1&keywords=the+phoenix+project)
 
 
 
