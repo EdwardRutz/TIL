@@ -1,7 +1,7 @@
-# Easy C# Compiling With Mono Software
+# Easy C# Compiling with Mono Software
 
 
-_Today I learn the Mono compiler makes it easy to quickly run C# programs._
+#### _Today I learn the Mono compiler makes it easy to quickly run C# programs._
 
 - Mono is an open-source implementation of .NET libraries and enables cross-platform compatible tools. It is ECMA compatible and provides .NET framework to the Linux environment.
 Mono is developed by Xamarin and .NET Foundation
