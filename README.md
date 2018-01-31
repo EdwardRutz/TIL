@@ -20,6 +20,8 @@
 -------------------------------------------------
 
 ## CONTENTS
+- [Recent Posts](#recent-posts)
+- [Agile](#agile)
 - [C#](#c)
 - [Coding](#coding)
 - [Glossary of Front-End Dev Terms](#glossary)
@@ -27,18 +29,29 @@
 - [React](#react)
 
 
+-------------------------------------------------
+
+## RECENT-POSTS
+
+- [Setting Goals Without Setting Goals](productivity/no-goals.md)
+- [Kanban Introduction](kanban/kanban-intro.md)
+- [Seven Habits of Succesful Developers](productivity/seven-habits-developers.md)
+- [Easy C# Compiling with Mono Software](c-sharp/mono.md)
+- [Seven Habits of Succesful Developers](productivity/seven-habits-developers.md)
 
 
 -------------------------------------------------
 
-
 ## POSTS
+
+### AGILE
+- [Kanban Introduction](kanban/kanban-intro.md)
 
 
 ### C#
 
 - [An Analogy for Namespace, Classes and Methods](c-sharp/namespace.md)
-- [Easy C# Compiling With Mono Software](c-sharp/mono.md)
+- [Easy C# Compiling with Mono Software](c-sharp/mono.md)
 
 
 
