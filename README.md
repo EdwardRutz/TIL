@@ -27,12 +27,14 @@
 - [Glossary of Front-End Dev Terms](#glossary)
 - [Productivity](#productivity)
 - [React](#react)
+- [Test Driven Development](#tdd)
 
 
 -------------------------------------------------
 
 ## RECENT-POSTS
 
+- [Falling in Love with Testing](tdd/falling-in-love-with-testing.md)
 - [Setting Goals Without Setting Goals](productivity/no-goals.md)
 - [The Phoenix Project by Gene Kim](books/phoenix-project.md)
 - [Kanban Introduction](kanban/kanban-intro.md)
@@ -80,7 +82,9 @@
 - [Easy, Breezy, Zero Config App](react/Easy-Breezy-Zero-Config-React-App.md)
 - [Webpack Dev Server](react/Webpack-Dev-Server.md) 
 
+### TEST DRIVEN DEVELOPMENT <a name="tdd"></a>
 
+- [Falling in Love with Testing](tdd/falling-in-love-with-testing.md)
 
 
 

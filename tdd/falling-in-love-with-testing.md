@@ -6,6 +6,7 @@
 It's love at first site.  
 
 On one command the entire code base is checked and confirmed working.
+
 No more...
 - clicking through links to make sure they are not broken
 - manually walking through the app to check for problems
