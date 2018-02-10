@@ -16,7 +16,7 @@ Now, it's easy to...
 - demonstrate to clients the app runs 
 - port and install
 - explain what the app does by going through the test
-- trouble shoot problems
+- trouble shoot problems and get help from colleagues
 
 Sometimes the fingers typing on the keyboard tell the heart, "this is a lot of extra work and code, break up with testing."
 
