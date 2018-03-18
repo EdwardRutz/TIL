@@ -1,7 +1,9 @@
 # TextUtil: Convert Text Files From One Type to Another
 
+<!---
 #til
 Author: er
+--->
 
 ## Intro
 
@@ -50,6 +52,9 @@ textutil -convert rtf /path/to/docx/files/*.docx
 
 
 
+<!---
+
 ## References
 
 - Notes: [[201803171808-convert-rtf-to-txt]]
+--->
