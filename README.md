@@ -22,7 +22,7 @@
 ## CONTENTS
 - [Recent Posts](#recent-posts)
 - [Agile](#agile)
-- [C#](#c)
+- [C#](#csharp)
 - [Coding](#coding)
 - [Glossary of Front-End Dev Terms](#glossary)
 - [Productivity](#productivity)
@@ -54,7 +54,7 @@
 - [The Phoenix Project by Gene Kim](books/phoenix-project.md)
 
 
-### C#
+### C# <a name="csharp"></a>
 
 - [An Analogy for Namespace, Classes and Methods](c-sharp/namespace.md)
 - [Easy C# Compiling on Mac with Mono Software](c-sharp/mono.md)
