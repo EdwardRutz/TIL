@@ -34,6 +34,7 @@
 
 ## RECENT-POSTS
 
+- [TextUtil: Convert Text Files From One Type to Another](productivity/201803172101-til-converting-rtf-txt.md)
 - [Falling in Love with Testing](tdd/falling-in-love-with-testing.md)
 - [Setting Goals Without Setting Goals](productivity/no-goals.md)
 - [The Phoenix Project by Gene Kim](books/phoenix-project.md)
@@ -72,6 +73,8 @@
 
 
 ### PRODUCTIVTY
+
+- [TextUtil: Convert Text Files From One Type to Another](productivity/201803172101-til-converting-rtf-txt.md)
 - [Setting Goals Without Setting Goals](productivity/no-goals.md)
 - [Seven Habits of Succesful Developers](productivity/seven-habits-developers.md)
 
